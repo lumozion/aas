@@ -60,26 +60,28 @@ export default function BirthdayMessage({ onClose }: BirthdayMessageProps) {
             </>
           )}
 
-          <p className="relative">
-            On this special day, I just want to remind you how deeply I love you. You are the most beautiful part of my
-            life, and every moment with you feels like a dream I never want to wake up from.
-          </p>
+<p className="relative">
+  Meri jaan !! Happy Birthday, my love! On this special day, I just want to remind you how deeply I love you.
+  You are the most beautiful part of my life, and every moment with you feels like a dream I never want to wake up from.
+</p>
 
-          <p>
-            Your smile melts my heart, your voice soothes my soul, and your love completes me in ways I never imagined.
-            I cherish you more than words can express, and I promise to love you endlessly, hold you close, and make you
-            feel special every single day.
-          </p>
+<p>
+  Your smile melts my heart, your voice soothes my soul, and your love completes me in ways I never imagined.
+  I cherish you more than words can express, and I promise to love you endlessly, hold you close, and make you
+  feel special every single day.
+</p>
 
-          <p>
-            Baccha, you are my heart, my happiness, my everything. I can't wait to celebrate this day with you and
-            create more beautiful memories together.
-          </p>
+<p>
+  Meri jaan! you are my heart, my happiness, my everything. I can’t wait to celebrate this day with you and
+  create more beautiful memories together.
+</p>
 
-          <p>
-            Once again Happy Birthday, my love! May this year bring you all the happiness you bring into my life. Enjoy
-            your day, mera Baccha! I'll always be here, loving you endlessly.
-          </p>
+<p>
+  Once again Happy Birthday, my love! May this year bring you all the happiness you bring into my life.
+  Enjoy your day, meri jaan !! I’ll always be here, loving you endlessly.
+</p>
+
+<p className="pt-2 text-right font-semibold">Forever yours,<br />PRINCE</p>
 
           <motion.div
             className="text-right font-medium text-pink-600 mt-6 relative"
