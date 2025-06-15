@@ -47,7 +47,7 @@ export default function BirthdayMessage({ onClose }: BirthdayMessageProps) {
         />
 
         <h2 className="text-2xl md:text-3xl font-bold text-pink-600 mb-6 text-center drop-shadow-sm">
-          Mera Baccha, Happy Birthday, my love!
+          Meri Jaan, Happy Birthday, my love!
         </h2>
 
         <div className="space-y-4 text-gray-700 leading-relaxed relative">
@@ -81,7 +81,6 @@ export default function BirthdayMessage({ onClose }: BirthdayMessageProps) {
   Enjoy your day, meri jaan !! I’ll always be here, loving you endlessly.
 </p>
 
-<p className="pt-2 text-right font-semibold">Forever yours,<br />PRINCE</p>
 
           <motion.div
             className="text-right font-medium text-pink-600 mt-6 relative"
