@@ -41,7 +41,7 @@ export default function BirthdayPage() {
     <main className="min-h-screen bg-gradient-to-b from-pink-100 via-purple-100 to-pink-100 flex flex-col items-center justify-center p-4 relative overflow-hidden">
       <audio
         ref={audioRef}
-        src="https://cdn.discordapp.com/attachments/840909951030657065/1349729341621145681/Tu_Hain_Toh_Main_Hoon.m4a?ex=67d428e7&is=67d2d767&hm=b5db8aa422b225b76407c4bcc8ebd7b33c6b82424760f4808cb5babab3e5514e&"
+        src="https://cdn.discordapp.com/attachments/1378606290431119403/1383672310980022292/Ishq_Wala_Love_-_Vishal-Shekhar_Lyrics_7clouds_Hindi_-_7clouds_Hindi.mp3?ex=684fa4c2&is=684e5342&hm=ce2331fbdbbae6feb058ac00157e670093352760ac841842848dec163b9ae720&"
         loop
         className="hidden"
         onCanPlay={() => console.log("Audio ready")}
