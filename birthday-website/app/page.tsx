@@ -41,7 +41,7 @@ export default function BirthdayPage() {
     <main className="min-h-screen bg-gradient-to-b from-pink-100 via-purple-100 to-pink-100 flex flex-col items-center justify-center p-4 relative overflow-hidden">
       <audio
         ref={audioRef}
-        src="https://cdn.discordapp.com/attachments/1378606290431119403/1383679196420636805/Rafta_Rafta_-_Official_Music_Video_Raj_Ranjodh_Atif_Aslam_Ft._Sajal_Ali_Tarish_Music_-_Tarish_Music_1.mp3?ex=684fab2b&is=684e59ab&hm=926bb0ea04b0c581cd66ef8baaedef769e0ce5c7f788c4894f69af06046cbf63&"
+        src="https://cdn.discordapp.com/attachments/1378606290431119403/1383679196420636805/Rafta_Rafta_-_Official_Music_Video_Raj_Ranjodh_Atif_Aslam_Ft._Sajal_Ali_Tarish_Music_-_Tarish_Music_1.mp3?ex=68539fab&is=68524e2b&hm=67d8321f65e4bcaf921542ec211dd3f794234be4e689884d51f74b2e40732bba&"
         loop
         className="hidden"
         onCanPlay={() => console.log("Audio ready")}
